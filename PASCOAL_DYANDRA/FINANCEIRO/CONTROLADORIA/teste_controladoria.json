@@ -1,0 +1,86 @@
+{
+  "_comentario": "Cenario de fumaca da planilha de controladoria. O teste preenche estes dados, recalcula e confere os resultados esperados. O arquivo .xlsx NAO e salvo - encerra sem gravar.",
+
+  "cenario": [
+    { "aba": "PROCESSOS", "cel": "A2",  "v": "0001" },
+    { "aba": "PROCESSOS", "cel": "B2",  "v": "JOÃO DA SILVA" },
+    { "aba": "PROCESSOS", "cel": "E2",  "v": "Trabalhista" },
+    { "aba": "PROCESSOS", "cel": "G2",  "v": "Regiane" },
+    { "aba": "PROCESSOS", "cel": "H2",  "v": "Indicação" },
+    { "aba": "PROCESSOS", "cel": "K2",  "v": "Ativo - em andamento" },
+    { "aba": "PROCESSOS", "cel": "L2",  "v": "CTMP + êxito" },
+    { "aba": "PROCESSOS", "cel": "M2",  "v": 0.30 },
+    { "aba": "PROCESSOS", "cel": "N2",  "v": 0 },
+    { "aba": "PROCESSOS", "cel": "O2",  "v": 200 },
+    { "aba": "PROCESSOS", "cel": "P2",  "v": 12 },
+
+    { "aba": "RECEBIMENTOS", "cel": "B2", "v": "0001" },
+    { "aba": "RECEBIMENTOS", "cel": "D2", "v": "CTMP" },
+    { "aba": "RECEBIMENTOS", "cel": "E2", "v": 200 },
+    { "aba": "RECEBIMENTOS", "cel": "B3", "v": "0001" },
+    { "aba": "RECEBIMENTOS", "cel": "D3", "v": "CTMP" },
+    { "aba": "RECEBIMENTOS", "cel": "E3", "v": 200 },
+    { "aba": "RECEBIMENTOS", "cel": "B4", "v": "0001" },
+    { "aba": "RECEBIMENTOS", "cel": "D4", "v": "CTMP" },
+    { "aba": "RECEBIMENTOS", "cel": "E4", "v": 200 },
+
+    { "aba": "DESPESAS", "cel": "B2", "v": "0001" },
+    { "aba": "DESPESAS", "cel": "D2", "v": "Custas processuais" },
+    { "aba": "DESPESAS", "cel": "E2", "v": 150 },
+    { "aba": "DESPESAS", "cel": "F2", "v": "SIM" },
+    { "aba": "DESPESAS", "cel": "G2", "v": "NÃO" },
+    { "aba": "DESPESAS", "cel": "B3", "v": "0001" },
+    { "aba": "DESPESAS", "cel": "D3", "v": "Deslocamento" },
+    { "aba": "DESPESAS", "cel": "E3", "v": 80 },
+    { "aba": "DESPESAS", "cel": "F3", "v": "NÃO" },
+    { "aba": "DESPESAS", "cel": "G3", "v": "NÃO" },
+
+    { "aba": "EXITO", "cel": "A2", "v": "0001" },
+    { "aba": "EXITO", "cel": "D2", "v": "Acordo" },
+    { "aba": "EXITO", "cel": "E2", "v": 50000 },
+    { "aba": "EXITO", "cel": "I2", "v": 3000 },
+
+    { "aba": "COMISSOES", "cel": "A2", "v": "0001" },
+    { "aba": "COMISSOES", "cel": "C2", "v": "Parceiro X" },
+    { "aba": "COMISSOES", "cel": "D2", "v": "Sobre o recebido" },
+    { "aba": "COMISSOES", "cel": "E2", "v": 600 },
+    { "aba": "COMISSOES", "cel": "F2", "v": 0.10 },
+    { "aba": "COMISSOES", "cel": "H2", "v": "NÃO" }
+  ],
+
+  "checagens": [
+    { "aba": "RECEBIMENTOS", "cel": "C2", "esperado": "JOÃO DA SILVA", "desc": "RECEBIMENTOS puxa o cliente pela pasta" },
+    { "aba": "DESPESAS",     "cel": "C2", "esperado": "JOÃO DA SILVA", "desc": "DESPESAS puxa o cliente pela pasta" },
+    { "aba": "COMISSOES",    "cel": "B2", "esperado": "JOÃO DA SILVA", "desc": "COMISSOES puxa o cliente pela pasta" },
+
+    { "aba": "EXITO", "cel": "F2", "esperado": 0.30,  "desc": "EXITO herda o % contratual do processo" },
+    { "aba": "EXITO", "cel": "H2", "esperado": 15000, "desc": "Honorario de exito = 50.000 x 30%" },
+    { "aba": "EXITO", "cel": "J2", "esperado": 0,     "desc": "Nada de exito recebido ainda" },
+    { "aba": "EXITO", "cel": "K2", "esperado": 18000, "desc": "A receber de exito = 15.000 + 3.000 sucumbencia" },
+
+    { "aba": "COMISSOES", "cel": "G2", "esperado": 60, "desc": "Comissao devida = 600 x 10%" },
+
+    { "aba": "PROCESSOS", "cel": "Q2",  "esperado": 2400,  "desc": "Contratado fixo = CTMP 200 x 12 parcelas" },
+    { "aba": "PROCESSOS", "cel": "R2",  "esperado": 15000, "desc": "Exito apurado vindo da aba EXITO" },
+    { "aba": "PROCESSOS", "cel": "S2",  "esperado": 3000,  "desc": "Sucumbencia apurada vinda da aba EXITO" },
+    { "aba": "PROCESSOS", "cel": "T2",  "esperado": 230,   "desc": "Despesas totais = 150 + 80" },
+    { "aba": "PROCESSOS", "cel": "U2",  "esperado": 150,   "desc": "Despesas a reembolsar (SIM e ainda nao reembolsada)" },
+    { "aba": "PROCESSOS", "cel": "V2",  "esperado": 80,    "desc": "Despesa por conta do escritorio (nao reembolsavel)" },
+    { "aba": "PROCESSOS", "cel": "W2",  "esperado": 20550, "desc": "Total a receber = 2400 + 15000 + 3000 + 150" },
+    { "aba": "PROCESSOS", "cel": "X2",  "esperado": 600,   "desc": "Recebido = 3 CTMP de 200" },
+    { "aba": "PROCESSOS", "cel": "Y2",  "esperado": 19950, "desc": "Saldo em aberto = 20550 - 600" },
+    { "aba": "PROCESSOS", "cel": "Z2",  "esperado": 60,    "desc": "Comissao a pagar (ainda nao paga)" },
+    { "aba": "PROCESSOS", "cel": "AA2", "esperado": 460,   "desc": "Resultado liquido = 600 - 80 - 60" },
+
+    { "aba": "PROCESSOS", "cel": "Q3",  "esperado": "",    "desc": "Linha vazia nao polui a planilha com zeros" },
+    { "aba": "PROCESSOS", "cel": "AA3", "esperado": "",    "desc": "Linha vazia sem resultado calculado" },
+
+    { "painel": "Processos cadastrados",             "esperado": 1,     "desc": "PAINEL conta 1 processo" },
+    { "painel": "Processos ativos",                  "esperado": 1,     "desc": "PAINEL conta 1 ativo" },
+    { "painel": "TOTAL A RECEBER",                   "esperado": 20550, "desc": "PAINEL consolida o total a receber" },
+    { "painel": "TOTAL RECEBIDO",                    "esperado": 600,   "desc": "PAINEL consolida o recebido" },
+    { "painel": "SALDO EM ABERTO (inadimplência)",   "esperado": 19950, "desc": "PAINEL consolida a inadimplencia" },
+    { "painel": "RESULTADO LÍQUIDO ACUMULADO",       "esperado": 460,   "desc": "PAINEL consolida o resultado" },
+    { "painel": "Ticket médio recebido/processo",    "esperado": 600,   "desc": "PAINEL calcula ticket medio" }
+  ]
+}

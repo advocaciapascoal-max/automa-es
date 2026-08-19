@@ -1,0 +1,277 @@
+{
+  "arquivo": "CONTROLADORIA FINANCEIRA DOS PROCESSOS - Pascoal & Dyandra.xlsx",
+
+  "listas": [
+    { "nome": "LST_AREA", "titulo": "ÁREA", "valores": [
+      "Trabalhista", "Previdenciário", "Cível", "Outro" ] },
+
+    { "nome": "LST_ORIGEM", "titulo": "ORIGEM DO CLIENTE", "valores": [
+      "WhatsApp", "Instagram", "Indicação", "Tráfego pago", "Outro" ] },
+
+    { "nome": "LST_RESP", "titulo": "RESPONSÁVEL", "valores": [
+      "Alexandre", "Flávia (Dyandra)", "Regiane", "Vitória", "Giovanna", "Diogo" ] },
+
+    { "nome": "LST_STATUS", "titulo": "STATUS DO PROCESSO", "valores": [
+      "Em negociação", "Contratado - a distribuir", "Ativo - em andamento",
+      "Aguardando audiência", "Em recurso", "Acordo firmado", "Sentença procedente",
+      "Sentença improcedente", "Em execução", "Encerrado - ganho",
+      "Encerrado - perdido", "Arquivado", "Distratado" ] },
+
+    { "nome": "LST_HONORARIO", "titulo": "TIPO DE HONORÁRIO", "valores": [
+      "Somente êxito", "Somente fixo", "Fixo + êxito", "CTMP + êxito",
+      "CTMP + fixo + êxito", "Pro bono" ] },
+
+    { "nome": "LST_TIPOREC", "titulo": "TIPO DE RECEBIMENTO", "valores": [
+      "Honorário fixo", "Parcela de honorário", "CTMP", "Êxito contratual",
+      "Sucumbência", "Reembolso de despesa", "Outros" ] },
+
+    { "nome": "LST_TIPODESP", "titulo": "TIPO DE DESPESA", "valores": [
+      "Custas processuais", "Honorário pericial", "Perícia", "Diligência / Oficial de justiça",
+      "Deslocamento", "Cópias / Autenticação", "Correios", "Preposto / Testemunha",
+      "Contador / Cálculo", "Outros" ] },
+
+    { "nome": "LST_PAGTO", "titulo": "FORMA DE PAGAMENTO", "valores": [
+      "PIX", "Transferência", "Boleto", "Dinheiro", "Cartão", "Retenção no alvará" ] },
+
+    { "nome": "LST_TIPOEXITO", "titulo": "TIPO DE ÊXITO", "valores": [
+      "Acordo", "Sentença transitada", "Execução / Alvará", "Acordo em execução" ] },
+
+    { "nome": "LST_BASECOM", "titulo": "BASE DA COMISSÃO", "valores": [
+      "Sobre o recebido", "Sobre o contratado", "Sobre o êxito", "Valor fixo" ] },
+
+    { "nome": "LST_SIMNAO", "titulo": "SIM / NÃO", "valores": [ "SIM", "NÃO" ] }
+  ],
+
+  "abas": [
+    {
+      "nome": "PROCESSOS",
+      "linhas": 1500,
+      "congelar_linha": 1,
+      "congelar_coluna": 2,
+      "colunas": [
+        { "h": "Nº Pasta",                  "w": 11, "fmt": "texto" },
+        { "h": "Cliente",                   "w": 34, "fmt": "geral" },
+        { "h": "CPF",                       "w": 16, "fmt": "texto" },
+        { "h": "Nº do Processo (CNJ)",      "w": 26, "fmt": "texto" },
+        { "h": "Área",                      "w": 15, "fmt": "geral" },
+        { "h": "Parte Contrária / Reclamada","w": 30, "fmt": "geral" },
+        { "h": "Responsável",               "w": 17, "fmt": "geral" },
+        { "h": "Origem",                    "w": 14, "fmt": "geral" },
+        { "h": "Indicante / Comissionado",  "w": 22, "fmt": "geral" },
+        { "h": "Data do Contrato",          "w": 14, "fmt": "data" },
+        { "h": "Status",                    "w": 24, "fmt": "geral" },
+        { "h": "Tipo de Honorário",         "w": 22, "fmt": "geral" },
+        { "h": "% Êxito Contratado",        "w": 14, "fmt": "pct" },
+        { "h": "Honorário Fixo (R$)",       "w": 17, "fmt": "moeda" },
+        { "h": "CTMP Mensal (R$)",          "w": 16, "fmt": "moeda" },
+        { "h": "Nº de Parcelas",            "w": 12, "fmt": "int" },
+        { "h": "Contratado Fixo Total",     "w": 19, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",N2+O2*P2)" },
+        { "h": "Êxito Apurado",             "w": 16, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIF(EXITO!$A$2:$A$1500,$A2,EXITO!$H$2:$H$1500))" },
+        { "h": "Sucumbência Apurada",       "w": 18, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIF(EXITO!$A$2:$A$1500,$A2,EXITO!$I$2:$I$1500))" },
+        { "h": "Despesas Totais",           "w": 16, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIF(DESPESAS!$B$2:$B$5000,$A2,DESPESAS!$E$2:$E$5000))" },
+        { "h": "Despesas a Reembolsar",     "w": 19, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIFS(DESPESAS!$E$2:$E$5000,DESPESAS!$B$2:$B$5000,$A2,DESPESAS!$F$2:$F$5000,\"SIM\",DESPESAS!$G$2:$G$5000,\"NÃO\"))" },
+        { "h": "Despesas do Escritório",    "w": 19, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIFS(DESPESAS!$E$2:$E$5000,DESPESAS!$B$2:$B$5000,$A2,DESPESAS!$F$2:$F$5000,\"NÃO\"))" },
+        { "h": "TOTAL A RECEBER",           "w": 18, "fmt": "moeda", "calc": true, "destaque": true,
+          "f": "=IF($A2=\"\",\"\",Q2+R2+S2+U2)" },
+        { "h": "RECEBIDO",                  "w": 16, "fmt": "moeda", "calc": true, "destaque": true,
+          "f": "=IF($A2=\"\",\"\",SUMIF(RECEBIMENTOS!$B$2:$B$5000,$A2,RECEBIMENTOS!$E$2:$E$5000))" },
+        { "h": "SALDO EM ABERTO",           "w": 18, "fmt": "moeda", "calc": true, "destaque": true, "alerta": true,
+          "f": "=IF($A2=\"\",\"\",W2-X2)" },
+        { "h": "Comissão a Pagar",          "w": 17, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIFS(COMISSOES!$G$2:$G$2000,COMISSOES!$A$2:$A$2000,$A2,COMISSOES!$H$2:$H$2000,\"NÃO\"))" },
+        { "h": "RESULTADO LÍQUIDO",         "w": 19, "fmt": "moeda", "calc": true, "destaque": true,
+          "f": "=IF($A2=\"\",\"\",X2-V2-Z2)" },
+        { "h": "Última Cobrança",           "w": 15, "fmt": "data" },
+        { "h": "Observações",               "w": 45, "fmt": "geral" }
+      ],
+      "validacoes": [
+        { "col": 5,  "lista": "LST_AREA" },
+        { "col": 7,  "lista": "LST_RESP" },
+        { "col": 8,  "lista": "LST_ORIGEM" },
+        { "col": 11, "lista": "LST_STATUS" },
+        { "col": 12, "lista": "LST_HONORARIO" }
+      ]
+    },
+
+    {
+      "nome": "RECEBIMENTOS",
+      "linhas": 5000,
+      "congelar_linha": 1,
+      "congelar_coluna": 3,
+      "colunas": [
+        { "h": "Data",                 "w": 13, "fmt": "data" },
+        { "h": "Nº Pasta",             "w": 11, "fmt": "texto" },
+        { "h": "Cliente",              "w": 34, "fmt": "geral", "calc": true,
+          "f": "=IF($B2=\"\",\"\",IFERROR(VLOOKUP($B2,PROCESSOS!$A$2:$B$1500,2,FALSE),\">>> PASTA NÃO CADASTRADA\"))" },
+        { "h": "Tipo de Recebimento",  "w": 22, "fmt": "geral" },
+        { "h": "Valor (R$)",           "w": 16, "fmt": "moeda" },
+        { "h": "Forma de Pagamento",   "w": 20, "fmt": "geral" },
+        { "h": "Recebido por",         "w": 17, "fmt": "geral" },
+        { "h": "Observações",          "w": 45, "fmt": "geral" }
+      ],
+      "validacoes": [
+        { "col": 4, "lista": "LST_TIPOREC" },
+        { "col": 6, "lista": "LST_PAGTO" },
+        { "col": 7, "lista": "LST_RESP" }
+      ]
+    },
+
+    {
+      "nome": "DESPESAS",
+      "linhas": 5000,
+      "congelar_linha": 1,
+      "congelar_coluna": 3,
+      "colunas": [
+        { "h": "Data",                 "w": 13, "fmt": "data" },
+        { "h": "Nº Pasta",             "w": 11, "fmt": "texto" },
+        { "h": "Cliente",              "w": 34, "fmt": "geral", "calc": true,
+          "f": "=IF($B2=\"\",\"\",IFERROR(VLOOKUP($B2,PROCESSOS!$A$2:$B$1500,2,FALSE),\">>> PASTA NÃO CADASTRADA\"))" },
+        { "h": "Tipo de Despesa",      "w": 26, "fmt": "geral" },
+        { "h": "Valor (R$)",           "w": 16, "fmt": "moeda" },
+        { "h": "Reembolsável?",        "w": 14, "fmt": "geral" },
+        { "h": "Já Reembolsado?",      "w": 16, "fmt": "geral" },
+        { "h": "Pago por",             "w": 17, "fmt": "geral" },
+        { "h": "Observações",          "w": 45, "fmt": "geral" }
+      ],
+      "validacoes": [
+        { "col": 4, "lista": "LST_TIPODESP" },
+        { "col": 6, "lista": "LST_SIMNAO" },
+        { "col": 7, "lista": "LST_SIMNAO" },
+        { "col": 8, "lista": "LST_RESP" }
+      ]
+    },
+
+    {
+      "nome": "EXITO",
+      "linhas": 1500,
+      "congelar_linha": 1,
+      "congelar_coluna": 2,
+      "colunas": [
+        { "h": "Nº Pasta",                    "w": 11, "fmt": "texto" },
+        { "h": "Cliente",                     "w": 34, "fmt": "geral", "calc": true,
+          "f": "=IF($A2=\"\",\"\",IFERROR(VLOOKUP($A2,PROCESSOS!$A$2:$B$1500,2,FALSE),\">>> PASTA NÃO CADASTRADA\"))" },
+        { "h": "Data do Êxito",               "w": 14, "fmt": "data" },
+        { "h": "Tipo de Êxito",               "w": 20, "fmt": "geral" },
+        { "h": "Valor Bruto do Êxito (R$)",   "w": 22, "fmt": "moeda" },
+        { "h": "% Contratual",                "w": 13, "fmt": "pct", "calc": true,
+          "f": "=IF($A2=\"\",\"\",IFERROR(VLOOKUP($A2,PROCESSOS!$A$2:$M$1500,13,FALSE),0))" },
+        { "h": "Base de Cálculo (R$)",        "w": 20, "fmt": "moeda" },
+        { "h": "Honorário Contratual Apurado","w": 24, "fmt": "moeda", "calc": true, "destaque": true,
+          "f": "=IF($A2=\"\",\"\",IF($G2=\"\",$E2,$G2)*$F2)" },
+        { "h": "Sucumbência (R$)",            "w": 18, "fmt": "moeda" },
+        { "h": "Recebido de Êxito",           "w": 18, "fmt": "moeda", "calc": true,
+          "f": "=IF($A2=\"\",\"\",SUMIFS(RECEBIMENTOS!$E$2:$E$5000,RECEBIMENTOS!$B$2:$B$5000,$A2,RECEBIMENTOS!$D$2:$D$5000,\"Êxito contratual\")+SUMIFS(RECEBIMENTOS!$E$2:$E$5000,RECEBIMENTOS!$B$2:$B$5000,$A2,RECEBIMENTOS!$D$2:$D$5000,\"Sucumbência\"))" },
+        { "h": "A RECEBER DE ÊXITO",          "w": 20, "fmt": "moeda", "calc": true, "destaque": true, "alerta": true,
+          "f": "=IF($A2=\"\",\"\",$H2+$I2-$J2)" },
+        { "h": "Observações",                 "w": 45, "fmt": "geral" }
+      ],
+      "validacoes": [
+        { "col": 4, "lista": "LST_TIPOEXITO" }
+      ]
+    },
+
+    {
+      "nome": "COMISSOES",
+      "linhas": 2000,
+      "congelar_linha": 1,
+      "congelar_coluna": 2,
+      "colunas": [
+        { "h": "Nº Pasta",                "w": 11, "fmt": "texto" },
+        { "h": "Cliente",                 "w": 34, "fmt": "geral", "calc": true,
+          "f": "=IF($A2=\"\",\"\",IFERROR(VLOOKUP($A2,PROCESSOS!$A$2:$B$1500,2,FALSE),\">>> PASTA NÃO CADASTRADA\"))" },
+        { "h": "Comissionado / Indicante","w": 26, "fmt": "geral" },
+        { "h": "Base de Cálculo",         "w": 20, "fmt": "geral" },
+        { "h": "Valor Base (R$)",         "w": 18, "fmt": "moeda" },
+        { "h": "% Comissão",              "w": 13, "fmt": "pct" },
+        { "h": "Comissão Devida",         "w": 18, "fmt": "moeda", "calc": true, "destaque": true,
+          "f": "=IF($A2=\"\",\"\",$E2*$F2)" },
+        { "h": "Já Paga?",                "w": 12, "fmt": "geral" },
+        { "h": "Data do Pagamento",       "w": 17, "fmt": "data" },
+        { "h": "Observações",             "w": 45, "fmt": "geral" }
+      ],
+      "validacoes": [
+        { "col": 4, "lista": "LST_BASECOM" },
+        { "col": 8, "lista": "LST_SIMNAO" }
+      ]
+    }
+  ],
+
+  "painel": {
+    "titulo": "CONTROLADORIA FINANCEIRA DOS PROCESSOS",
+    "subtitulo": "Pascoal & Dyandra Advocacia — CNPJ 55.540.563/0001-64 — Sorocaba/SP",
+    "itens": [
+      { "tipo": "secao", "texto": "CARTEIRA" },
+      { "tipo": "kpi", "label": "Processos cadastrados",        "fmt": "int",
+        "f": "=COUNTA(PROCESSOS!$A$2:$A$1500)" },
+      { "tipo": "kpi", "label": "Processos ativos",             "fmt": "int",
+        "f": "=COUNTIF(PROCESSOS!$K$2:$K$1500,\"Ativo - em andamento\")+COUNTIF(PROCESSOS!$K$2:$K$1500,\"Aguardando audiência\")+COUNTIF(PROCESSOS!$K$2:$K$1500,\"Em recurso\")+COUNTIF(PROCESSOS!$K$2:$K$1500,\"Em execução\")" },
+      { "tipo": "kpi", "label": "Processos com saldo em aberto","fmt": "int",
+        "f": "=COUNTIF(PROCESSOS!$Y$2:$Y$1500,\">0\")" },
+
+      { "tipo": "secao", "texto": "A RECEBER" },
+      { "tipo": "kpi", "label": "Contratado fixo total",        "fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$Q$2:$Q$1500)" },
+      { "tipo": "kpi", "label": "Êxito apurado",                "fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$R$2:$R$1500)" },
+      { "tipo": "kpi", "label": "Sucumbência apurada",          "fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$S$2:$S$1500)" },
+      { "tipo": "kpi", "label": "Despesas a reembolsar",        "fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$U$2:$U$1500)" },
+      { "tipo": "kpi", "label": "TOTAL A RECEBER",              "fmt": "moeda", "destaque": true,
+        "f": "=SUM(PROCESSOS!$W$2:$W$1500)" },
+
+      { "tipo": "secao", "texto": "REALIZADO" },
+      { "tipo": "kpi", "label": "TOTAL RECEBIDO",               "fmt": "moeda", "destaque": true,
+        "f": "=SUM(PROCESSOS!$X$2:$X$1500)" },
+      { "tipo": "kpi", "label": "SALDO EM ABERTO (inadimplência)","fmt": "moeda", "destaque": true, "alerta": true,
+        "f": "=SUM(PROCESSOS!$Y$2:$Y$1500)" },
+      { "tipo": "kpi", "label": "% de inadimplência",           "fmt": "pct", "alerta": true,
+        "f": "=IFERROR(SUM(PROCESSOS!$Y$2:$Y$1500)/SUM(PROCESSOS!$W$2:$W$1500),0)" },
+      { "tipo": "kpi", "label": "Ticket médio recebido/processo","fmt": "moeda",
+        "f": "=IFERROR(SUM(PROCESSOS!$X$2:$X$1500)/COUNTA(PROCESSOS!$A$2:$A$1500),0)" },
+
+      { "tipo": "secao", "texto": "CUSTOS E RESULTADO" },
+      { "tipo": "kpi", "label": "Despesas totais dos processos","fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$T$2:$T$1500)" },
+      { "tipo": "kpi", "label": "Despesas por conta do escritório","fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$V$2:$V$1500)" },
+      { "tipo": "kpi", "label": "Comissões a pagar",            "fmt": "moeda",
+        "f": "=SUM(PROCESSOS!$Z$2:$Z$1500)" },
+      { "tipo": "kpi", "label": "RESULTADO LÍQUIDO ACUMULADO",  "fmt": "moeda", "destaque": true,
+        "f": "=SUM(PROCESSOS!$AA$2:$AA$1500)" },
+
+      { "tipo": "grupo", "texto": "POR STATUS", "lista": "LST_STATUS", "criterio": "K",
+        "cols": [
+          { "h": "Qtde",           "fmt": "int",   "f": "=COUNTIF(PROCESSOS!$K$2:$K$1500,\"{V}\")" },
+          { "h": "A Receber",      "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$K$2:$K$1500,\"{V}\",PROCESSOS!$W$2:$W$1500)" },
+          { "h": "Recebido",       "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$K$2:$K$1500,\"{V}\",PROCESSOS!$X$2:$X$1500)" },
+          { "h": "Saldo em Aberto","fmt": "moeda", "f": "=SUMIF(PROCESSOS!$K$2:$K$1500,\"{V}\",PROCESSOS!$Y$2:$Y$1500)" },
+          { "h": "Resultado",      "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$K$2:$K$1500,\"{V}\",PROCESSOS!$AA$2:$AA$1500)" }
+        ] },
+
+      { "tipo": "grupo", "texto": "POR RESPONSÁVEL", "lista": "LST_RESP", "criterio": "G",
+        "cols": [
+          { "h": "Qtde",           "fmt": "int",   "f": "=COUNTIF(PROCESSOS!$G$2:$G$1500,\"{V}\")" },
+          { "h": "A Receber",      "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$G$2:$G$1500,\"{V}\",PROCESSOS!$W$2:$W$1500)" },
+          { "h": "Recebido",       "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$G$2:$G$1500,\"{V}\",PROCESSOS!$X$2:$X$1500)" },
+          { "h": "Saldo em Aberto","fmt": "moeda", "f": "=SUMIF(PROCESSOS!$G$2:$G$1500,\"{V}\",PROCESSOS!$Y$2:$Y$1500)" },
+          { "h": "Resultado",      "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$G$2:$G$1500,\"{V}\",PROCESSOS!$AA$2:$AA$1500)" }
+        ] },
+
+      { "tipo": "grupo", "texto": "POR ORIGEM DO CLIENTE", "lista": "LST_ORIGEM", "criterio": "H",
+        "cols": [
+          { "h": "Qtde",           "fmt": "int",   "f": "=COUNTIF(PROCESSOS!$H$2:$H$1500,\"{V}\")" },
+          { "h": "A Receber",      "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$H$2:$H$1500,\"{V}\",PROCESSOS!$W$2:$W$1500)" },
+          { "h": "Recebido",       "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$H$2:$H$1500,\"{V}\",PROCESSOS!$X$2:$X$1500)" },
+          { "h": "Saldo em Aberto","fmt": "moeda", "f": "=SUMIF(PROCESSOS!$H$2:$H$1500,\"{V}\",PROCESSOS!$Y$2:$Y$1500)" },
+          { "h": "Resultado",      "fmt": "moeda", "f": "=SUMIF(PROCESSOS!$H$2:$H$1500,\"{V}\",PROCESSOS!$AA$2:$AA$1500)" }
+        ] }
+    ]
+  }
+}

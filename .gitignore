@@ -1,0 +1,7 @@
+# Snapshot de entrega do projeto - duplicata desatualizada de PASCOAL_DYANDRA/
+*.zip
+
+# Arquivos pessoais do SO
+Thumbs.db
+.DS_Store
+desktop.ini
