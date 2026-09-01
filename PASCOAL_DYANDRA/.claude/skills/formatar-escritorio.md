@@ -1,6 +1,6 @@
 ---
 name: formatar-escritorio
-description: Aplica formatacao fiel do escritorio (Verdana 11pt, recuo 7cm, citacoes 10pt italico, timbrado do escritorio) em texto bruto ou arquivo .docx existente. Sem chamar IA.
+description: Aplica formatacao fiel do escritorio (Verdana 11pt, recuo 3,0cm, entrelinhas 1,5, citacoes 10pt italico, timbrado do escritorio) em texto bruto ou arquivo .docx existente. Sem chamar IA.
 trigger: /formatar-escritorio
 ---
 
@@ -28,13 +28,15 @@ Para gerar peca NOVA com IA, use `/peca-escritorio`.
    - `_texto_` -> italico inline
    - Marcadores markdown `#`, `##`, `###` sao limpos automaticamente
 2. Renderiza no timbrado do escritorio com formatacao FIEL:
-   - Margens 3 / 1.6 / 3 / 3 cm
+   - Margens 3,5 / 3 / 3 / 3 cm (cabecalho e rodape 1,25 cm)
    - Verdana 11pt (corpo)
    - Citacoes em 10pt italico, recuo esquerdo 4cm
-   - Recuo 1a linha 7cm literais
-   - Espacamento 1.5
+   - Recuo 1a linha 3,0 cm
+   - Entrelinhas 1,5
    - Nome da peca centralizado bold
-   - Titulos de secao com travessao longo "–" (nao hifen)
+   - Titulos de secao em CAIXA ALTA, centralizados, bold, SEM numeracao e SEM
+     letra - numeracao legada ("I - ", "A- ") e removida automaticamente
+   - Local/data a direita; assinaturas (nome + OAB) centralizadas em negrito
 
 ## Como invocar
 
@@ -66,27 +68,33 @@ PF.gerar_peca(texto, 'output.docx')
 | Item | Valor |
 |---|---|
 | Pagina | A4 (21 x 29.7 cm) |
-| Margens | top 3 / bottom 1.6 / left 3 / right 3 cm |
+| Margens | topo 3,5 / base 3,0 / esquerda 3,0 / direita 3,0 cm |
+| Cabecalho / rodape | 1,25 cm |
 | Fonte | Verdana |
 | Corpo | 11 pt |
 | Citacoes (jurisprudencia/sumula) | 10 pt italico |
-| Espacamento linha | 1.5 |
-| Recuo 1a linha (corpo + pedidos) | 7 cm literais |
+| Espacamento linha | 1,5 |
+| Recuo 1a linha (corpo + pedidos) | 3,0 cm |
 | Recuo esquerdo citacoes | 4 cm |
-| space_before / space_after | None |
+| space_before / space_after | 0 pt / 6 pt (12 pt nos titulos) |
 | Alinhamento padrao | Justificado |
 
 ## Estrutura detectada automaticamente
 
 - "EXCELENTISSIMO..." -> enderecamento (justify, bold, sem recuo)
 - "RECLAMATORIA TRABALHISTA" / "CONTESTACAO" / "REPLICA" -> nome da peca (CENTER, bold)
-- "I - ...", "II - ...", "I.I - ..." -> titulo de secao (justify, bold, travessao longo)
-- "a) ...", "b) ..." em meio de paragrafo -> subtitulo (justify, bold)
-- "a) ...", "b) ..." na secao V/PEDIDOS -> pedido (justify, recuo 7cm)
+- Linha isolada em CAIXA ALTA -> titulo de secao (CENTER, bold, caixa alta)
+- Numeracao legada no titulo ("I - ", "IV.I - ", "A- ") -> removida automaticamente
+- "a) ...", "b) ..." -> pedido (justify, recuo de 1a linha)
 - Linha comecando com aspa -> citacao (10pt italico, recuo esquerdo 4cm)
+- "Origem:" / "Processo n:" / "Recorrente:" -> cabecalho processual (esquerda, sem recuo)
+- "Nestes termos," / "Pede deferimento." -> fecho centralizado
+- "Sorocaba, ..." -> local e data (direita)
+- Nome seguido de linha "OAB/SP ..." -> assinatura (CENTER, bold)
 
 ## Boas praticas relacionadas
 
-- Obrigatorio gerar no timbrado do escritorio
-- Recuo 1a linha 7cm literais
+- Obrigatorio gerar no timbrado do escritorio - nunca entregar .txt/.md cru
+- Recuo 1a linha 3,0 cm
+- Entrelinhas 1,5; negrito de corpo so na oracao-chave, nunca no paragrafo inteiro
 - Assinatura padrao: Dr. Alexandre Pascoal Marques — OAB/SP 270.924 — Sorocaba/SP

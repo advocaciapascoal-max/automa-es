@@ -144,8 +144,12 @@ consultar assinatura e movimentacao processual. Inicia via
 ## Padroes de peca
 - Toda peca juridica e gerada no timbrado do escritorio (config/timbrado_modelo.docx).
 - Assinatura padrao: Dr. Alexandre Pascoal Marques - OAB/SP 270.924 - Sorocaba/SP.
-- Formatacao: Verdana 11pt, justificado, espacamento 1,5, recuo de 1a linha 7cm,
-  citacoes recuadas em italico.
+- Formatacao (padrao vigente desde 31/08/2026): A4, margens 3,5/3/3/3 cm, cabecalho e
+  rodape 1,25 cm, Verdana 11pt, justificado, entrelinhas 1,5, recuo de 1a linha 3,0 cm,
+  citacoes em italico 10pt recuadas 4 cm. Titulos em CAIXA ALTA, centralizados, negrito,
+  **sem numeracao e sem letra** (nunca `A -` nem `I -`). Local/data a direita e
+  assinaturas centralizadas em negrito. Detalhes em `.claude/rules/padroes-documentos.md`.
+- Entregar sempre o `.docx` no timbrado - nunca `.txt`/`.md` cru para alguem formatar.
 - O "DNA de escrita" do escritorio vem de OPERACIONAL/agente_operacional/REFERENCIAS/
   (pecas-modelo ja depositadas: inicial, recurso ordinario, contrarrazoes e replica).
 - As TESES do nicho motorista/caminhoneiro ficam em BASE_CONHECIMENTO/CAMINHONEIRO/:

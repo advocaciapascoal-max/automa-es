@@ -12,7 +12,9 @@ Sempre que precisar produzir uma peca processual em nome do escritorio
 (PI, contestacao, replica, recurso ordinario, recurso de revista, contrarrazoes, embargos,
 manifestacoes, parecer juridico, agravo).
 
-Use esta skill em vez de gerar texto neutro de IA com `template_engine.py`.
+Use esta skill em vez de gerar texto neutro de IA. `template_engine.py` esta
+OBSOLETO - virou fachada fina sobre `escritorio_format.py`, que e o unico motor
+de formatacao do escritorio.
 
 ## O que essa skill faz
 
@@ -25,10 +27,11 @@ Use esta skill em vez de gerar texto neutro de IA com `template_engine.py`.
 4. Limpa marcadores markdown
 5. Renderiza no timbrado do escritorio com formatacao FIEL:
    - Verdana 11pt (citacoes 10pt italico)
-   - Recuo 1a linha 7cm literais
-   - Margens 3/1.6/3/3 cm
+   - Recuo 1a linha 3,0cm
+   - Margens 3,5/3/3/3 cm (cabecalho e rodape 1,25cm)
    - Citacoes com recuo esquerdo 4cm
-   - Espacamento 1.5
+   - Entrelinhas 1,5
+   - Titulos em CAIXA ALTA, centralizados, sem numeracao e sem letra
 
 ## Como invocar
 
@@ -74,7 +77,7 @@ que invoca `peca_escritorio_engine.produzir_peca()` com os dados recebidos do ca
 
 ```
 OPERACIONAL/agente_operacional/
-├── escritorio_format.py         # formatador fiel (Verdana 11, recuo 7cm, etc)
+├── escritorio_format.py         # formatador fiel (Verdana 11, recuo 3,0cm, etc)
 ├── peca_escritorio_engine.py    # engine: gera texto Opus + formata
 ├── timbrado_modelo.docx         # timbrado do escritorio (cabecalho/logo/rodape)
 └── REFERENCIAS/
@@ -89,8 +92,9 @@ OPERACIONAL/agente_operacional/
 
 - Texto integral no timbrado do escritorio
 - Verdana (corpo 11pt | citacoes 10pt italico)
-- Paragrafos com recuo de 1a linha 7cm literais
-- Margens 3.0 / 1.6 / 3.0 / 3.0 cm
+- Paragrafos com recuo de 1a linha 3,0 cm e entrelinhas 1,5
+- Margens 3,5 / 3,0 / 3,0 / 3,0 cm | cabecalho e rodape 1,25 cm
+- Titulos em CAIXA ALTA, centralizados, negrito, sem numeracao e sem letra
 - Vocabulario-marca do escritorio aplicado (vocativos, conectivos)
 - Jurisprudencia verificada incluida em bloco
 
@@ -102,5 +106,6 @@ Dr. Alexandre Pascoal Marques — OAB/SP 270.924 — Sorocaba/SP
 
 - Sempre usar Opus para producao de pecas juridicas
 - Toda peca gerada no timbrado do escritorio (nunca em folha branca)
-- Recuo de 1a linha 7cm literais
+- Recuo de 1a linha 3,0cm e entrelinhas 1,5
+- Entregar sempre o .docx no timbrado, nunca .txt/.md cru
 - A peca segue para a Revisora de Controladoria antes do protocolo

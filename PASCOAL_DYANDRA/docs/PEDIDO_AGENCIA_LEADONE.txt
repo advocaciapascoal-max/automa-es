@@ -1,0 +1,79 @@
+=============================================================================
+ PEDIDO DE CREDENCIAIS DO LEADONE - PARA ENVIAR A AGENCIA DE MARKETING
+ (copie o bloco abaixo e mande por e-mail ou WhatsApp)
+ Gerado em: 31/08/2026 - Pascoal & Dyandra Advocacia
+=============================================================================
+
+--- INICIO DA MENSAGEM ------------------------------------------------------
+
+Ola! Estamos integrando o Leadone ao nosso sistema interno de automacoes do
+escritorio. Voces conseguem nos passar os itens abaixo, da NOSSA subconta?
+
+1) UM PRIVATE INTEGRATION TOKEN
+   Na subconta do escritorio: Settings > Private Integrations > Create new
+   integration. Pode chamar de "Automacoes Pascoal & Dyandra".
+   Marcar estes escopos:
+     - contacts.readonly
+     - contacts.write
+     - conversations.readonly
+     - conversations.write
+     - conversations/message.readonly
+     - conversations/message.write
+     - workflows.readonly
+   O token comeca com "pit-" e so aparece UMA vez na tela - copiem na hora.
+
+2) O LOCATION ID DA NOSSA SUBCONTA
+   Aparece em Settings > Business Profile, e tambem na URL do painel:
+   .../location/<esse-id>/...
+
+3) CONFIRMACAO DO CANAL CONECTADO
+   Nossa subconta tem provedor de WhatsApp ativo, ou hoje so SMS/e-mail?
+   Isso muda o tipo de mensagem que o sistema envia.
+
+4) (PARA A 2a FASE - respostas automaticas) UM WEBHOOK
+   Um workflow com gatilho "Customer Replied" e acao "Webhook" apontando para
+   uma URL que passaremos, com um header fixo chamado  x-leadone-secret .
+   O valor desse header nos enviamos em mensagem separada, por seguranca.
+   Se preferirem, o webhook NATIVO de InboundMessage tambem serve - nosso
+   sistema valida a assinatura das duas formas.
+
+Para deixar claro o uso: o token da acesso apenas a nossa subconta e sera
+usado somente para (a) consultar contato pelo telefone, (b) enviar mensagem ou
+arquivo ao cliente e (c) inscrever contato em workflow. Nao vamos alterar
+nenhuma configuracao de voces.
+
+Obrigado!
+
+--- FIM DA MENSAGEM ---------------------------------------------------------
+
+
+=============================================================================
+ NAO ENVIE JUNTO: mandar o segredo do webhook em mensagem SEPARADA
+=============================================================================
+ Valor do header x-leadone-secret (ja gravado em config/.env):
+
+   >> Pegue o valor na linha LEADONE_WEBHOOK_SECRET de  config/.env  <<
+   (nao versionado - o segredo nao entra neste arquivo de proposito)
+
+ So e necessario no item 4 (fase de respostas automaticas). Nao ha pressa
+ em enviar; enquanto a URL publica do webhook nao existir, ele nao e usado.
+=============================================================================
+
+
+=============================================================================
+ QUANDO A AGENCIA RESPONDER - o que fazer
+=============================================================================
+ 1. Abrir  config/.env  e preencher:
+      LEADONE_TOKEN=pit-...............
+      LEADONE_LOCATION_ID=.............
+      LEADONE_CANAL=WhatsApp     (ou SMS, conforme a resposta do item 3)
+
+ 2. Conferir que subiu:
+      .\.venv\Scripts\python.exe -c "from INTEGRACOES import crm; print(crm.status())"
+    Esperado: {'provedor': 'leadone', ..., 'configurado': True}
+
+ 3. Teste de envio real (use SEU proprio celular na primeira vez):
+      .\.venv\Scripts\python.exe -c "from INTEGRACOES import crm; print(crm.enviar_texto_por_telefone('15998239545','Teste de integracao'))"
+
+ Detalhes tecnicos completos: docs/INTEGRACAO_LEADONE.md
+=============================================================================

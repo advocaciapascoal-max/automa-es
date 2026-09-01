@@ -1,0 +1,93 @@
+!EXCELENTÍSSIMA SENHORA DOUTORA JUÍZA DO TRABALHO DO CON2 - CAMPINAS-SP
+!PROCESSO Nº 0012041-93.2025.5.15.0126
+-
+**DANIEL DE LIMA**, reclamante já qualificado nos autos, vem à presença de Vossa Excelência, por seus advogados, invocando o disposto no art. 897-A da CLT, oferecer **EMBARGOS DE DECLARAÇÃO** em face da r. sentença de Id. cace77c, pelos motivos que se passa a expor:
+#DA OMISSÃO QUANTO À INTEGRAÇÃO DO TEMPO DE ESPERA NO DISPOSITIVO
+A r. sentença enfrentou o tema do tempo de espera e acolheu a pretensão obreira, consignando que os períodos registrados sob essa rubrica “devem ser considerados como tempo à disposição do empregador e integrar a jornada de trabalho para todos os efeitos legais”.
+Ao encerrar o capítulo seguinte, a decisão reiterou que julgava procedente o pedido de horas extras “e tempo de espera”.
+**Todavia, com o devido respeito, há omissão no julgado.**
+Isso porque o dispositivo, ao relacionar as parcelas objeto de condenação, limitou-se a deferir as horas extras “assim consideradas as acima da 8ª diária e 44ª semanal”, **sem qualquer menção ao tempo de espera**.
+A distinção não é redacional. Os espelhos de ponto juntados pela própria reclamada (Id. cc34d73) possuem **coluna própria e apartada denominada “Espera” e “Espera Not”**, segregada das colunas “Extra 50%”, “Extra 100%” e respectivas noturnas. Vale dizer: a empregadora lançou essas horas em rubrica autônoma e não as computou como jornada extraordinária.
+A prova oral admitida nestes autos confirma o ponto de forma incontroversa. A testemunha da própria reclamada, Sra. Gabriela Oliveira Boina, coordenadora de jornada, declarou “que até 25/10/2024 o tempo registrado nessa macro era considerado tempo de espera” e **“que após 25/10/2024 o tempo de espera passou a integrar a jornada de trabalho do motorista”**.
+O contrato do reclamante vigorou de 21/11/2023 a 19/09/2025. **Há, portanto, aproximadamente onze meses de contrato em que o tempo de espera, por admissão da preposta técnica da ré, não integrava a jornada de trabalho.**
+Não se pretende, por meio destes embargos, rediscutir o mérito da causa ou inovar argumentos. O vício apontado consiste na ausência, no dispositivo, de parcela expressamente deferida na fundamentação, capaz de ser esvaziada em liquidação.
+Requer-se, portanto, que Vossa Excelência sane a omissão apontada, integrando o dispositivo para que dele conste, expressamente, que os períodos anotados sob a rubrica “espera” nos controles de jornada integram a jornada de trabalho e devem ser somados às horas efetivamente trabalhadas na apuração das horas extras deferidas.
+#DA OMISSÃO QUANTO AOS DEPOIMENTOS DAS TESTEMUNHAS ADMITIDOS COMO PROVA EMPRESTADA
+Em audiência de instrução (Id. 6e793fe), as partes acordaram a utilização, como prova emprestada, dos **depoimentos das testemunhas** colhidos no processo 0010563-16.2026.5.15.0126, tendo a Secretaria providenciado a juntada da respectiva degravação (Id. 79ff1f1).
+A r. sentença, ao apreciar os capítulos das comissões e da jornada de trabalho, fundamentou-se **exclusivamente no depoimento pessoal do autor daquele feito**, e em nenhum momento se manifestou sobre os depoimentos das testemunhas — que constituíam, precisamente, o objeto do acordo processual celebrado.
+**Todavia, com o devido respeito, há omissão no julgado.**
+A testemunha Marcelo Augusto Marcelino, motorista que trabalhou com o reclamante, declarou **“que as anotações não estavam corretas pois muitas vezes faltavam horas trabalhadas”** e “que reclamava dos erros, mas a empresa não apresentava respostas efetivas”.
+Acrescentou, ainda, “que a jornada média era de 13h às 14h, inclusive aos sábados” e “que usufruía do intervalo de almoço apenas formalmente no registro da macro, pois continuava trabalhando na operação”.
+A r. sentença, contudo, concluiu no sentido diametralmente oposto, consignando que acolhia “os documentos macros juntados pela reclamada como sendo fiéis à jornada de trabalho do reclamante”, premissa extraída unicamente da afirmação, colhida em depoimento pessoal, de que o depoente informava os eventos via macro diariamente.
+Uma coisa é o motorista enviar as macros; outra, inteiramente distinta, é o sistema registrar corretamente o que foi enviado. **Sobre essa segunda questão — objeto de prova testemunhal expressa e admitida — a decisão não se pronunciou.**
+Não se pretende, por meio destes embargos, renovar a impugnação aos controles de jornada ou provocar nova valoração ampla da prova. O vício é objetivo: ausência de manifestação sobre prova oral que o próprio Juízo admitiu nos autos e cujo teor é incompatível com a premissa adotada.
+Requer-se, portanto, que Vossa Excelência sane a omissão, manifestando-se expressamente sobre os depoimentos das testemunhas admitidos como prova emprestada, em especial sobre a declaração de que as anotações de jornada não estavam corretas e que faltavam horas trabalhadas.
+Reconhecido o vício, requer-se a atribuição de efeito modificativo ao julgado, para que a apuração das horas extras não fique restrita aos registros patronais reputados fiéis.
+#DA OBSCURIDADE QUANTO AOS PARÂMETROS DE APURAÇÃO DAS HORAS EXTRAS
+A r. sentença deferiu as horas extras “acrescidas de 50% ou 75% sobre a hora normal, por todo o pacto”, fixando o divisor de 220 e a observância da evolução salarial e das horas efetivamente trabalhadas.
+**Todavia, com o devido respeito, a fórmula alternativa adotada é obscura e inviabiliza a liquidação sem nova controvérsia.**
+O Acordo Coletivo de Trabalho 2025/2026, juntado aos autos pela própria defesa, disciplina a matéria de modo escalonado: a Cláusula Décima Oitava prevê adicional de 50% em dias úteis, de 100% em domingos e feriados não compensados e de 75% para as horas laboradas após a 10ª diária, previsão repetida no parágrafo primeiro da Cláusula Décima Quinta.
+A decisão, ao mencionar apenas “50% ou 75%”, não esclareceu qual percentual incide sobre as horas excedentes da 8ª até a 10ª diária, qual incide sobre as excedentes da 10ª, nem se o adicional de 100% para domingos e feriados não compensados integra a condenação — sobretudo porque os espelhos de ponto contêm colunas específicas de “Extra 100%” e “Extra 100% Not”.
+**Há, ainda, omissão quanto à composição da base de cálculo da hora normal.**
+O reclamante percebia, a título de última remuneração, R$ 3.589,02, sendo R$ 2.760,79 de salário-base e **R$ 828,23 de adicional de periculosidade** — parcela que correspondia a aproximadamente 30% de sua remuneração mensal.
+Nos termos do item I da Súmula 132 do C. TST, o adicional de periculosidade pago em caráter permanente integra o cálculo das horas extras. O parágrafo único da Cláusula Décima Oitava do referido instrumento coletivo, contudo, dispõe em sentido oposto, excluindo o adicional de periculosidade da base de cálculo das horas extras de 50%, 75% e 100%.
+Trata-se de tema controvertido nos autos sobre o qual a r. sentença **não emitiu qualquer pronunciamento, nem para acolher, nem para rejeitar**. Registre-se, ademais, que o referido instrumento tem vigência delimitada a 1º de maio de 2025 a 30 de abril de 2026, ao passo que o contrato vigorou de 21/11/2023 a 19/09/2025, de modo que a cláusula, ainda que reputada válida, não alcançaria a maior parte do pacto laboral.
+Requer-se, assim, que Vossa Excelência sane a obscuridade e a omissão apontadas, esclarecendo:
+$a) qual percentual de adicional incide sobre as horas excedentes da 8ª até a 10ª diária e qual incide sobre as excedentes da 10ª diária;
+$b) se o adicional de 100% relativo a domingos e feriados não compensados integra a condenação;
+$c) se o adicional de periculosidade compõe a base de cálculo das horas extras deferidas;
+$d) em caso negativo, a partir de qual marco temporal se aplicaria o parágrafo único da Cláusula Décima Oitava do Acordo Coletivo de Trabalho 2025/2026.
+#DA OMISSÃO QUANTO À NATUREZA DA VERBA PAGA SOB A RUBRICA DE PRÊMIO
+A r. sentença julgou improcedente o pedido de integração das comissões, enquadrando a verba como prêmio, na forma do art. 457, § 4º, da CLT, ao fundamento de que seu recebimento dependia de requisitos de desempenho, conduta e segurança.
+Para tanto, extraiu da prova emprestada o trecho segundo o qual o depoente “perdia o valor do referido prêmio se houvesse um pico de velocidade de 82 km/h”.
+**Todavia, com o devido respeito, há omissão no julgado.**
+Isso porque, **no mesmo depoimento e imediatamente antes do trecho transcrito na r. sentença**, consta afirmação de sentido diametralmente oposto, que não foi objeto de qualquer consideração: “que recebia um bônus por viagens que a Ademir Comércio de Veículos e Transportadora Ltda chamava de prêmio, **mas que na verdade consistia em comissão pelas viagens realizadas**”.
+No mesmo sentido, a testemunha Marcelo Augusto Marcelino declarou “que recebia comissão por descarga baseada no valor do CCDS” e **“que os valores pagos muitas vezes não coincidiam com as descargas efetivamente realizadas”**.
+Também não foram enfrentados os elementos articulados na inicial que convergem no mesmo sentido: o pagamento de valor fixo de R$ 20,00 por viagem realizada, a média de 20 a 30 viagens mensais e o montante mensal resultante de aproximadamente R$ 400,00 a R$ 600,00, pagos habitualmente durante todo o contrato.
+Da mesma forma, restou sem pronunciamento o § 1º do art. 457 da CLT, expressamente invocado na peça de ingresso, segundo o qual integram o salário as comissões pagas pelo empregador.
+A habitualidade do pagamento e sua vinculação a evento certo e mensurável — a viagem realizada e a descarga efetuada — são precisamente os elementos que distinguem a comissão do prêmio. **A circunstância de a verba estar sujeita a condições de desempenho não foi confrontada com a prova de que o pagamento decorria da viagem executada.**
+Não se pretende, por meio destes embargos, rediscutir o mérito da causa ou inovar argumentos. O vício consiste na ausência de manifestação sobre prova produzida nos autos e sobre fundamento legal deduzido na inicial, ambos capazes de alterar o resultado do julgamento.
+Requer-se, portanto, que Vossa Excelência sane a omissão, manifestando-se expressamente sobre a prova de que a verba denominada “prêmio” consistia em comissão pelas viagens realizadas e sobre a incidência do art. 457, § 1º, da CLT.
+Reconhecido o vício, requer-se a atribuição de efeito modificativo ao julgado, para que seja deferida a integração da parcela ao salário, com os reflexos postulados na inicial.
+#DA OMISSÃO QUANTO À PROVA ORAL SOBRE A MANUTENÇÃO DOS VEÍCULOS
+Ao rejeitar o pedido de indenização por danos morais, a r. sentença consignou que “não foi comprovada a recusa patronal de manutenção mecânica ou a exposição do reclamante a perigo concreto derivado de falhas em freios ou pneus”.
+**Todavia, com o devido respeito, a afirmação de inexistência de prova não se harmoniza com o acervo probatório dos autos.**
+A testemunha Marcelo Augusto Marcelino declarou **“que as condições de manutenção eram muito precárias”**, “que relatava os problemas do veículo, mas havia resistência da empresa em realizar os reparos devido à necessidade de cumprir a programação” e **“que era compelido a realizar entregas mesmo com o caminhão em condições inadequadas”**.
+No mesmo sentido, a prova emprestada registra declaração de que os caminhões eram “de anos novos, porém com manutenção zero e em condições precárias”, sendo necessário “brigar com os setores de manutenção e de programação pois os caminhões tinham **pneus carecas, problemas nos freios** e lanternas queimadas”.
+Observe-se que a prova menciona nominalmente os dois exatos elementos que a r. sentença reputou não comprovados — falhas em **freios** e em **pneus** — e descreve a recusa patronal, na medida em que consigna a resistência da empresa em realizar os reparos e a imposição de seguir viagem em condições inadequadas.
+Não se busca, neste momento, definir se essa prova conduz necessariamente à procedência do pedido. **O vício consiste em afirmar a inexistência de prova sobre fato a respeito do qual há prova oral expressa e admitida nos autos, sem valorá-la nem rejeitá-la fundamentadamente.**
+Requer-se, portanto, que Vossa Excelência sane a omissão, esclarecendo:
+$a) se foram considerados os depoimentos acima transcritos;
+$b) por qual razão entendeu não comprovada a recusa patronal de manutenção, diante de tais declarações.
+Reconhecido o vício, requer-se a atribuição de efeito modificativo ao julgado, para que o pedido de indenização por danos morais seja reapreciado à luz da prova oral produzida.
+#DA OMISSÃO NO DISPOSITIVO QUANTO AO ITEM II E À DESISTÊNCIA HOMOLOGADA
+O dispositivo da r. sentença apresenta a seguinte sequência de itens: I, III, IV e V, **inexistindo item II**, tanto na via lançada nos autos quanto na cópia reproduzida na intimação de Id. ced65b5.
+Da falha decorrem duas consequências práticas que reclamam integração.
+A primeira é que o dispositivo não contém item expresso julgando improcedentes os demais pedidos formulados na inicial — integração das comissões, intervalo interjornada, feriados em dobro, dano existencial e dano moral —, os quais foram rejeitados apenas na fundamentação.
+A segunda é que o dispositivo não reproduz a homologação da desistência da ação em face de Petróleo Brasileiro S.A. Petrobras, com a consequente extinção do feito sem resolução de mérito quanto àquela empresa, providência que consta apenas do relatório.
+Como o dispositivo é a parte da decisão que transita em julgado e delimita o título executivo, requer-se a integração do julgado para que dele constem, em item próprio, as deliberações acima referidas.
+#DO ERRO MATERIAL NA IDENTIFICAÇÃO DO RECLAMANTE
+Por fim, a título de correção material, a fundamentação da r. sentença refere-se ao autor destes autos, em quatro passagens, como “o reclamante Sandro Joaquim”.
+Sandro Joaquim é o autor do processo 0010563-16.2026.5.15.0126, de onde extraída a prova emprestada. **O reclamante destes autos é DANIEL DE LIMA.**
+Requer-se a correção do erro material, a fim de que não remanesça dúvida quanto à identidade da parte beneficiária da condenação.
+#DA NECESSIDADE DE EFEITO MODIFICATIVO
+Os vícios apontados não possuem caráter meramente formal.
+As omissões e obscuridades recaem sobre capítulos que influenciam diretamente o resultado da demanda e a apuração do crédito: a integração do tempo de espera à jornada, os parâmetros de cálculo das horas extras, a natureza jurídica da verba paga sob a rubrica de prêmio e a indenização por danos morais.
+O art. 897-A da CLT autoriza a oposição de embargos de declaração diante de omissão, contradição ou manifesto equívoco no exame dos pressupostos extrínsecos do recurso. No mesmo sentido, os arts. 1.022 e seguintes do CPC admitem a utilização do presente instrumento para sanar omissão, obscuridade, contradição ou erro material.
+No presente caso, o acolhimento dos embargos pode conduzir à complementação da sentença e, por consequência, à alteração do resultado do julgamento em pontos específicos. Daí a necessidade de atribuição de efeito modificativo, caso o saneamento dos vícios conduza ao reconhecimento das parcelas omitidas.
+Considerando essa possibilidade, requer-se a prévia intimação das partes embargadas para, querendo, manifestarem-se no prazo legal.
+#CONCLUSÃO
+Diante do exposto, requer o embargante a apreciação e o provimento dos presentes Embargos de Declaração, para que sejam sanadas as omissões, obscuridades e o erro material apontados, com manifestação expressa sobre todos os capítulos não apreciados em sentença.
+Sanados os vícios, requer seja atribuído efeito modificativo ao julgado, caso o enfrentamento das matérias omitidas conduza à alteração do resultado do julgamento.
+Nestes termos,
+Pede deferimento.
+>Sorocaba/SP, 1º de setembro de 2026.
+-
+=Regiane de Oliveira
+=OAB/SP 429.472
+-
+=Flávia Dyandra da Silva
+=OAB/SP 352.455
+-
+=Alexandre Pascoal Marques
+=OAB/SP 270.924

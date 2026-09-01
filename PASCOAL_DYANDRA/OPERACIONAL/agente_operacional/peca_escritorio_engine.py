@@ -109,12 +109,18 @@ REGRAS ABSOLUTAS:
    d) Fechamento com o pedido + valor monetario
 
 6. FORMATACAO DE SAIDA (para o escritorio_format engine):
-   - Titulos principais: I., II., III. (linha em maiusculo - usa travessao longo "–")
-   - Subtitulos: I.I., I.II., III.I., a), b), c)
-   - NAO usar marcadores markdown (# / ## / ###) - usar I., I.I., a) direto
+   - Titulos de secao: linha isolada em CAIXA ALTA, SEM numeracao e SEM letra.
+     Escrever "DO ADICIONAL DE PERICULOSIDADE", nunca "I - DO ADICIONAL..." nem
+     "A- DO ADICIONAL...". Separar partes do titulo com travessao longo "–".
+   - Subtitulo vira titulo proprio, tambem em CAIXA ALTA e sem numeracao.
+   - NAO usar marcadores markdown (# / ## / ###).
    - Citacoes de jurisprudencia/sumulas/lei: linha comecando com aspa "
-   - **negrito** inline / _italico_ inline
+   - **negrito** inline apenas na oracao-chave do paragrafo, NUNCA no paragrafo
+     inteiro / _italico_ inline
    - Pedidos finais: cada pedido em paragrafo com letra: a), b), c), ..., aa), bb)
+   - Fecho: "Nestes termos," / "Pede deferimento." em linhas proprias, depois a
+     linha de local e data ("Sorocaba, 31 de agosto de 2026.") e, por fim, cada
+     assinatura como par de linhas (nome / OAB).
 
 7. NAO inventar fatos novos. Usar SOMENTE o que consta no contexto fornecido. Se um dado
    essencial faltar, usar placeholder explicito [FALTA: descricao do dado].
@@ -245,8 +251,8 @@ INICIE PELA QUALIFICACAO DAS PARTES E ESCREVA A PECA INTEIRA APLICANDO O ESTILO 
 
 def formatar_no_timbrado(texto_peca: str, output_path: str | Path) -> Path:
     """
-    Aplica formatacao do escritorio (Verdana 11, recuo 7cm, citacoes 10pt italico,
-    margens 3/1.6/3/3) no timbrado e salva como .docx.
+    Aplica formatacao do escritorio (Verdana 11, entrelinhas 1,5, recuo de 1a linha
+    3cm, citacoes 10pt italico, margens 3,5/3/3/3) no timbrado e salva como .docx.
 
     Limpa marcadores markdown (# / ## / ###) e <<CITACAO>>...<</CITACAO>>.
     """

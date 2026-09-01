@@ -1,0 +1,244 @@
+!EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DA DAM - SOROCABA / 3ª VARA DO TRABALHO DE SOROCABA-SP
+
+!PROCESSO Nº 0010118-30.2018.5.15.0109
+
+BERLIN ROZIER, exequente já devidamente qualificado nos autos da execução em epígrafe, que move em face de APC FERRAMENTARIA E DESENVOLVIMENTO EIRELI - EPP (atual APC BOBINAS LTDA), ANDERSON PETERSON CLAUDINO e PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, por seus advogados, vem perante Vossa Excelência, com fundamento nos artigos 897, "a", e 855-A, § 1º, II, ambos da CLT, **interpor AGRAVO DE PETIÇÃO contra a r. sentença de Id. e05429a**, o que faz pelas razões de direito que seguem anexas, devendo os autos serem remetidos ao Egrégio Tribunal Regional do Trabalho da 15ª Região.
+
+O recurso é tempestivo. A r. decisão que julgou o incidente foi disponibilizada no DJEN em 19/08/2026 e publicada em 20/08/2026, conforme certidão de Id. d77f9ec, de modo que **o prazo de oito dias úteis, contado na forma do artigo 775 da CLT, tem por termo final o dia 01/09/2026**.
+
+O agravo é cabível independentemente de garantia do juízo, nos exatos termos do artigo 855-A, § 1º, II, da CLT, que assim dispõe:
+
+~"§ 1º Da decisão interlocutória que acolher ou rejeitar o incidente: II - na fase de execução, cabe agravo de petição, independentemente de garantia do juízo;"
+
+Cumpre registrar, ainda, que o exequente é beneficiário da justiça gratuita, deferida na r. sentença de Id. eed3eb2, o que o isenta do recolhimento de custas e do depósito recursal, devendo o recurso receber regular processamento.
+
+Por fim, para os efeitos do artigo 897, § 1º, da CLT, o agravante delimita justificadamente a matéria e os valores impugnados: a insurgência recai sobre a integralidade do capítulo que indeferiu a inclusão de PRATIC PRESTAÇÃO DE SERVIÇOS LTDA no polo passivo, **alcançando a totalidade do débito exequendo, apurado em R$ 41.138,72** na planilha oficial de Id. 9add6b9, atualizada até 27/04/2026, assim discriminado: R$ 35.890,80 de créditos do reclamante, R$ 1.055,93 de INSS cota empregado, R$ 2.411,99 de INSS cota empregador e R$ 1.780,00 de honorários advocatícios.
+
+Nestes termos,
+Pede deferimento.
+
+>Sorocaba, 31 de agosto de 2026.
+
+=Giovanna Bortolato Hins
+=Assistente Jurídica
+
+=Alexandre Pascoal Marques
+=OAB/SP 270.924
+
+=Flávia Dyandra da Silva
+=OAB/SP 352.455
+
+^
+#RAZÕES DO AGRAVO DE PETIÇÃO
+
+|Origem: DAM - SOROCABA / 3ª VARA DO TRABALHO DE SOROCABA
+|Processo nº: 0010118-30.2018.5.15.0109
+|Agravante: BERLIN ROZIER
+|Agravados: APC FERRAMENTARIA E DESENVOLVIMENTO EIRELI - EPP (atual APC BOBINAS LTDA), ANDERSON PETERSON CLAUDINO e PRATIC PRESTAÇÃO DE SERVIÇOS LTDA
+
+!Egrégio Tribunal
+!Doutos Julgadores
+
+Trata-se de execução definitiva que se arrasta há mais de seis anos sem satisfação, oriunda de reclamatória ajuizada em 31/01/2018 e julgada procedente em parte por r. sentença de 30/10/2019, transitada em julgado à revelia da executada originária.
+
+O exequente, trabalhador haitiano que exerceu a função de auxiliar de produção mediante o salário de R$ 1.106,00, e que sequer teve suas verbas rescisórias quitadas, persegue desde então crédito de natureza alimentar hoje apurado em R$ 41.138,72.
+
+A r. decisão agravada, em que pese o notório conhecimento jurídico do MM. Juiz prolator, data maxima venia, **indeferiu a inclusão da PRATIC sob fundamento que não corresponde ao incidente efetivamente instaurado**, tampouco à causa de pedir efetivamente deduzida, e desprezou prova documental oficial que se encontra encartada nos próprios autos.
+
+Merece, por isso, integral reforma, conforme se passa a demonstrar.
+
+#PRELIMINARMENTE — DA NULIDADE DA DECISÃO POR JULGAMENTO DE CAUSA DIVERSA DA INSTAURADA
+
+Assim constou do r. despacho de Id. 072351b, proferido pela MM. Juíza Titular em 29/04/2026, que instaurou o presente incidente:
+
+~"Como decorrência lógica, instaura-se o Incidente de Desconsideração da Personalidade Jurídica (inversa), por analogia ao previsto no art. 855-A da CLT, exegese do art. 10-A da CLT."
+
+E assim constou da r. decisão agravada:
+
+~"Não obstante o despacho de id 072351b mencione incidente de desconsideração inversa, a causa de pedir do exequente (id c971ce4) em relação PRATIC PRESTAÇÃO DE SERVIÇOS LTDA. foi embasada no grupo econômico por abuso da personalidade jurídica. Logo, cabe a inclusão no polo passivo nesta fase processual."
+
+Perceba-se, Excelência, a contradição insuperável. O juízo de origem instaurou, por decisão expressa e não impugnada, incidente de desconsideração INVERSA da personalidade jurídica. Ao julgá-lo, contudo, o MM. Juiz substituto declarou que a causa de pedir seria outra — grupo econômico entre empresas — e, a partir dessa premissa que ele próprio construiu, passou a examinar exclusivamente os requisitos do artigo 50 do Código Civil na sua modalidade direta, de sociedade para sociedade.
+
+Ocorre que **desconsideração inversa e responsabilização por grupo econômico são institutos ontologicamente distintos**, com pressupostos diversos e com resultados diversos.
+
+Na desconsideração direta, a obrigação caminha da sociedade para o sócio. Na responsabilização por grupo econômico, a obrigação caminha de uma sociedade para outra sociedade coligada. Já na desconsideração inversa, prevista no artigo 133, § 2º, do CPC, a obrigação caminha do sócio pessoa física — que aqui já é executado — para a sociedade que ele utiliza como anteparo patrimonial.
+
+O artigo 133, § 2º, do CPC é expresso:
+
+~"§ 2º Aplica-se o disposto neste Capítulo à hipótese de desconsideração inversa da personalidade jurídica."
+
+Nota-se que a r. decisão agravada julgou pedido que não foi o instaurado, sob fundamento que não foi o deduzido, e **deixou integralmente sem exame o pedido que efetivamente lhe foi submetido**. Trata-se de decisão que, a um só tempo, viola os artigos 141, 490 e 492 do CPC e o artigo 832 da CLT, e que não observa o dever de fundamentação analítica do artigo 489, § 1º, IV, do CPC, segundo o qual não se considera fundamentada a decisão que "não enfrentar todos os argumentos deduzidos no processo capazes de, em tese, infirmar a conclusão adotada pelo julgador".
+
+Requer-se, portanto, a declaração de nulidade da r. decisão agravada, com o retorno dos autos à origem para que outra seja proferida com exame da desconsideração inversa efetivamente instaurada, ou, na forma do artigo 1.013, § 3º, do CPC, o julgamento direto do mérito por este Egrégio Tribunal, medida que se mostra mais consentânea com a duração razoável do processo em execução que já supera seis anos.
+
+#DA NEGATIVA DE PRESTAÇÃO JURISDICIONAL — DA OMISSÃO QUANTO À SUCESSÃO EMPRESARIAL E À FRAUDE À EXECUÇÃO
+
+Ainda que se admitisse a delimitação da causa de pedir feita pela r. decisão agravada — no que não se acredita —, remanesceria vício autônomo e igualmente insanável.
+
+A manifestação de Id. c971ce4 não deduziu apenas abuso da personalidade jurídica. Deduziu, expressa e cumulativamente, fraude à execução e sucessão empresarial, invocando nominalmente o artigo 448-A da CLT, como se lê no próprio corpo da petição:
+
+~"Consoante o julgamento do Tema nº 1.232, o Supremo fixou a tese de que não cabe a inclusão, na fase de execução, de empresa que não tenha participado da fase de conhecimento, admitindo-se, excepcionalmente, o redirecionamento nas hipóteses de sucessão empresarial, conforme art. 448-A da CLT e abuso da personalidade jurídica, art. 50 do Código Civil, observados o art. 855-A da CLT e os arts. 133 a 137 do CPC"
+
+O tópico foi inclusive titulado "DA FRAUDE À EXECUÇÃO E DO ABUSO DA PERSONALIDADE JURÍDICA", e a tese da sucessão foi reiterada na impugnação de Id. b0fef4b.
+
+Pois bem. **A r. decisão agravada não dedicou uma única linha à sucessão empresarial.** Não mencionou os artigos 10, 448 e 448-A da CLT. Não examinou a fraude à execução, tampouco o artigo 792, § 3º, do CPC. Limitou-se a afastar a confusão patrimonial e o desvio de finalidade do artigo 50 do Código Civil e deu por encerrada a prestação jurisdicional.
+
+Frise-se: a sucessão empresarial é, ao lado do abuso da personalidade jurídica, exatamente uma das duas ressalvas que o próprio Supremo Tribunal Federal fez ao fixar a tese do Tema 1232. Deixar de examiná-la equivale a suprimir metade do fundamento da pretensão executiva.
+
+O artigo 448-A da CLT dispõe:
+
+~"Caracterizada a sucessão empresarial ou de empregadores prevista nos arts. 10 e 448 desta Consolidação, as obrigações trabalhistas, inclusive as contraídas à época em que os empregados trabalhavam para a empresa sucedida, são de responsabilidade do sucessor."
+
+Requer-se, assim, o reconhecimento da negativa de prestação jurisdicional, com a reforma da r. decisão para que a sucessão empresarial e a fraude à execução sejam efetivamente enfrentadas.
+
+#DA INAPLICABILIDADE DO TEMA 1232 DO STF AO CASO CONCRETO
+
+Aqui reside o equívoco central da r. decisão agravada.
+
+Assim constou:
+
+~"Foi decidido pelo Supremo Tribunal Federal no Tema 1232 que, em se tratando de empresas componentes de grupo econômico, o cumprimento da sentença trabalhista não poderá ser promovido em face delas caso não tenham participado da fase de conhecimento, ressalvada as hipóteses de sucessão empresarial e abuso da personalidade jurídica."
+
+A premissa é correta; a subsunção é que não é.
+
+O Tema 1232 da repercussão geral (RE 1.387.795) protege a empresa terceira que, integrante de grupo econômico, não participou da fase de conhecimento e é surpreendida na execução. É essa a hipótese fática de sua incidência.
+
+Não é, nem de longe, a hipótese destes autos.
+
+Veja-se, Excelência: **ANDERSON PETERSON CLAUDINO integra o polo passivo desta execução desde 04/05/2021**, por força de desconsideração da personalidade jurídica então deferida — fato registrado no próprio Mandado de Pesquisas Básicas expedido por este r. Juízo, nos seguintes termos:
+
+~"Houve desconsideração da personalidade jurídica e incluídos o(s) seguinte(s) sócios, nas respectivas datas: Em 04/05/2021: ANDERSON PETERSON CLAUDINO, CPF: 212.997.998-09"
+
+Mais: o executado não apenas foi incluído, como teve valores bloqueados e convolados em penhora, tendo o pagamento parcial de R$ 12.695,12 sido processado em 08/08/2022, conforme demonstrativo oficial de Id. 9add6b9. O executado, portanto, é parte, foi citado, sofreu constrição e quitou parte do débito.
+
+Ora, a PRATIC PRESTAÇÃO DE SERVIÇOS LTDA não é uma empresa "componente de grupo econômico" que se pretende trazer à execução por coligação societária. É **sociedade limitada unipessoal cujo único sócio e administrador é o próprio executado, titular de 100% do capital social**.
+
+Não se está, pois, a alcançar terceiro estranho ao título. Está-se a alcançar o patrimônio de quem já é parte na execução, acomodado sob veste societária constituída depois da constrição judicial.
+
+O Tema 1232 não foi concebido para blindar o executado de si mesmo. Interpretá-lo dessa forma é convertê-lo em salvo-conduto para a fraude — precisamente o oposto do que decidiu o Excelso Pretório, que fez questão de ressalvar o abuso da personalidade jurídica e a sucessão empresarial.
+
+Requer-se a reforma da r. decisão nesse particular, com o afastamento da incidência do Tema 1232 à espécie.
+
+#DA DESCONSIDERAÇÃO INVERSA — DOS FATOS DOCUMENTADOS QUE A DECISÃO IGNOROU
+
+Assim concluiu a r. decisão agravada:
+
+~"Nenhum dos requisitos foi demonstrado. A mera movimentação e identidade de sócios e/ou de endereços não tem o condão de configurar o grupo econômico e muito menos abuso da personalidade jurídica."
+
+Data maxima venia, a afirmação não se sustenta diante da prova documental oficial que já está nos autos, produzida pela Junta Comercial do Estado de São Paulo e pela Receita Federal do Brasil, e cuja autenticidade jamais foi contestada.
+
+**Não se trata, aqui, de mera identidade de sócios. Trata-se de cronologia.**
+
+Vejamos os fatos, um a um, todos comprovados por documento oficial encartado nestes autos:
+
+$a) A executada originária APC FERRAMENTARIA E DESENVOLVIMENTO EIRELI - EPP, CNPJ 24.305.654/0001-91, NIRE 35601265521, foi constituída em 03/03/2016 tendo como titular único e administrador o executado ANDERSON PETERSON CLAUDINO, com participação de R$ 88.000,00 sobre capital social de R$ 88.000,00 — vale dizer, 100%.
+
+$b) Essa mesma empresa passou a denominar-se APC BOBINAS LTDA em 22/08/2017 e encontra-se, perante a Receita Federal do Brasil, na situação cadastral INAPTA desde 23/10/2020, por omissão de declarações, conforme comprovante juntado aos autos sob Id. 843ce63.
+
+$c) Note-se a data: a executada originária foi inaptada em outubro de 2020, isto é, menos de seis meses depois da homologação dos cálculos, ocorrida em 12/05/2020, e menos de um ano depois do trânsito em julgado da condenação.
+
+$d) Frustrada a execução contra a pessoa jurídica esvaziada, o sócio foi incluído no polo passivo em 04/05/2021 e teve valores bloqueados, com pagamento parcial processado em 08/08/2022.
+
+$e) Pois bem: em 14/12/2023 — dezesseis meses após o bloqueio judicial em sua conta pessoal — o mesmo ANDERSON PETERSON CLAUDINO deu início às atividades de nova sociedade limitada unipessoal, então denominada INICIAL PRESTAÇÃO DE SERVIÇOS LTDA, CNPJ 53.242.416/0001-82, NIRE 35262798734, registrada na JUCESP em 18/12/2023, da qual é o único sócio e administrador, com participação de R$ 25.000,00 sobre capital de R$ 25.000,00 — novamente 100%.
+
+$f) Em 31/01/2024, a empresa mudou de nome para PATRIC WORKS PRESTAÇÃO DE SERVIÇOS LTDA.
+
+$g) Em 07/03/2024, apenas trinta e seis dias depois, mudou de nome novamente, para PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, alterando na mesma oportunidade o objeto social.
+
+**Três denominações sociais em pouco mais de dois meses e meio.** É a própria ficha cadastral completa da JUCESP, emitida em 29/04/2026 e juntada sob Id. eb439ee, que registra, sob o título "DENOMINAÇÕES ANTERIORES", a sequência INICIAL PRESTAÇÃO DE SERVIÇOS LTDA — PATRIC WORKS PRESTAÇÃO DE SERVIÇOS LTDA — PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, todas sob o mesmo CNPJ e o mesmo NIRE.
+
+Cabe salientar que a r. decisão agravada sequer registrou esse fato. E o fato é eloquente: uma sociedade recém-constituída que troca de nome duas vezes em setenta dias, mantendo intacto o mesmo titular único, não está construindo marca — está dificultando rastreamento.
+
+Excelência, empresa que nasce, some do nome e reaparece com outro, duas vezes em setenta dias, enquanto seu único dono responde a execução trabalhista com penhora nas costas, não é coincidência: é blindagem!
+
+#DO ERRO DE PREMISSA FÁTICA — DA IDENTIDADE DE OBJETO SOCIAL DOCUMENTALMENTE COMPROVADA
+
+A r. decisão agravada deu por não demonstrada a compatibilidade entre os objetos sociais. Todavia, verifica-se dos documentos oficiais dos autos exatamente o contrário.
+
+Confira-se o objeto social da executada originária APC, conforme alteração arquivada na JUCESP sob NUM.DOC 193.016/17-5, sessão de 09/05/2017:
+
+~"ALTERAÇÃO DA ATIVIDADE ECONÔMICA / OBJETO SOCIAL DA SEDE PARA COMÉRCIO VAREJISTA DE MADEIRA E ARTEFATOS, COMÉRCIO ATACADISTA DE MADEIRA E PRODUTOS DERIVADOS, TRANSPORTE RODOVIÁRIO DE CARGA, EXCETO PRODUTOS PERIGOSOS E MUDANÇAS, INTERMUNICIPAL, INTERESTADUAL E INTERNACIONAL, MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS E PRODUTOS NÃO ESPECIFICADOS ANTERIORMENTE."
+
+E confira-se, agora, o objeto social com que nasceu a PRATIC (então INICIAL), conforme ficha cadastral da JUCESP juntada sob Id. eb439ee:
+
+~"FABRICAÇÃO DE ARTEFATOS DE TANOARIA E DE EMBALAGENS DE MADEIRA. SERVIÇOS DE MONTAGEM DE MÓVEIS DE QUALQUER MATERIAL. COMÉRCIO ATACADISTA DE EMBALAGENS. COMÉRCIO VAREJISTA DE MADEIRA E ARTEFATOS."
+
+Observe-se, Doutos Julgadores: **"COMÉRCIO VAREJISTA DE MADEIRA E ARTEFATOS" consta, com identidade literal, palavra por palavra, do objeto social de ambas as sociedades.**
+
+Não há aqui interpretação, nem inferência, nem presunção. Há coincidência textual integral entre dois registros públicos, e a r. decisão agravada afirmou que nada foi demonstrado.
+
+Ademais, o executado é ainda titular de terceira empresa individual — ANDERSON PETERSON CLAUDINO ME, CNPJ 13.001.488/0001-13, NIRE 35126559022 —, cujo objeto social é "MANUTENÇÃO E REPARAÇÃO DE MÁQUINAS E EQUIPAMENTOS PARA USO GERAL NÃO ESPECIFICADOS ANTERIORMENTE, MANUTENÇÃO E REPARAÇÃO DE VÁLVULAS INDUSTRIAIS", que reproduz, também com identidade literal, o objeto social originário da APC.
+
+Disso conclui-se que não se está diante de mera identidade de sócios, mas de **reiterada utilização de estruturas societárias sucessivas, pelo mesmo titular único, para o exercício das mesmas atividades econômicas**, com sistemático esvaziamento da pessoa jurídica devedora.
+
+É o desvio de finalidade do artigo 50, § 1º, do Código Civil, in verbis:
+
+~"§ 1º Para os fins do disposto neste artigo, desvio de finalidade é a utilização da pessoa jurídica com o propósito de lesar credores e para a prática de atos ilícitos de qualquer natureza."
+
+Requer-se a reforma da r. sentença nesse particular.
+
+DA APLICAÇÃO INVERTIDA DO ARTIGO 50, §§ 4º E 5º, DO CÓDIGO CIVIL
+
+Consignou ainda a r. decisão agravada, com apoio nos §§ 4º e 5º do artigo 50 do Código Civil, que "a mera existência de grupo econômico, a simples alteração do objeto social ou a constituição de novas empresas não caracterizam abuso da personalidade jurídica".
+
+Contudo, data venia, o dispositivo foi lido pela metade.
+
+O que os §§ 4º e 5º do artigo 50 do Código Civil afastam é a caracterização do abuso pela existência isolada de tais fatos. Não é disso que se cuida.
+
+In casu, não se invoca a existência de grupo econômico isoladamente. Não se invoca a alteração de objeto social isoladamente. Não se invoca a constituição de nova empresa isoladamente.
+
+**Invoca-se o conjunto indissociável e cronologicamente encadeado**: inaptidão da devedora originária logo após a liquidação do débito; bloqueio judicial na conta pessoal do titular único; constituição, dezesseis meses depois, de nova sociedade unipessoal pelo mesmo titular único; três denominações sociais em setenta dias; identidade literal de objeto social; e persistência da inadimplência de crédito alimentar por mais de seis anos.
+
+É a soma desses elementos — e não cada um deles isoladamente — que caracteriza o abuso. Interpretação diversa esvazia por completo o artigo 50 do Código Civil, pois sempre haverá modo de decompor a fraude em atos individualmente lícitos.
+
+#DA APLICAÇÃO DA TEORIA MENOR À EXECUÇÃO TRABALHISTA
+
+Por fim, ainda que se exigisse a demonstração de abuso — o que se admite apenas para argumentar —, cumpre consignar que a jurisprudência trabalhista consolidada aplica à espécie a teoria menor da desconsideração, com fundamento nos artigos 28, § 5º, do Código de Defesa do Consumidor e 8º da CLT, **à qual basta a demonstração da insolvência ou da insuficiência patrimonial**, dispensada a prova de fraude ou de abuso.
+
+E a insuficiência patrimonial, nestes autos, é fato incontroverso e exaustivamente certificado: foram realizadas pesquisas por SISBAJUD, com resultado negativo; por RENAJUD, INFOJUD, INFOSEG e ARISP, sem localização de bens livres e desembaraçados; por SNIPER, com o registro literal "Nenhum dado encontrado"; e diligências de oficial de justiça igualmente infrutíferas.
+
+Nesse sentido, decidiu a Egrégia 8ª Câmara deste Tribunal Regional do Trabalho da 15ª Região, nos autos do processo nº 0152900-31.1997.5.15.0001, sob relatoria da Exma. Desembargadora Andrea Guelfi Cunha, ao manter a desconsideração inversa para incluir no polo passivo empresas do sócio executado, sendo uma delas unipessoal e outra com participação de 99%, ao fundamento de que tais sociedades integram o próprio patrimônio do sócio e por isso respondem pela dívida trabalhista.
+
+~[CONFERIR ANTES DO PROTOCOLO: transcrever a ementa integral e a data de julgamento do acórdão TRT-15, 8ª Câmara, proc. 0152900-31.1997.5.15.0001, Rel. Des. Andrea Guelfi Cunha, e acrescentar 1 ou 2 ementas atuais do TRT-15 e do TST sobre desconsideração inversa em sociedade unipessoal.]
+
+~[CONFERIR ANTES DO PROTOCOLO: transcrever a tese integral do Tema 1232 (RE 1.387.795, Plenário Virtual, julgamento concluído em outubro de 2025) diretamente do portal do STF, para citação literal do item 2, que ressalva a sucessão empresarial (art. 448-A da CLT) e o abuso da personalidade jurídica (art. 50 do CC).]
+
+#SUBSIDIARIAMENTE — DA PENHORA DAS QUOTAS SOCIAIS DE TITULARIDADE DO EXECUTADO
+
+Acaso este Egrégio Tribunal perfilhe entendimento diverso quanto à inclusão da PRATIC no polo passivo — no que não se acredita —, em caráter estritamente subsidiário requer o agravante seja determinada, desde logo, a penhora da totalidade das quotas sociais que o executado ANDERSON PETERSON CLAUDINO detém na PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, correspondentes a R$ 25.000,00 e a 100% do capital social, na forma dos artigos 789, 835, IX, e 861 do CPC.
+
+E isso porque, ainda que não se reconheça o abuso da personalidade jurídica, **as quotas sociais são bem do próprio executado**, que responde com todos os seus bens presentes e futuros pelo cumprimento de suas obrigações, nos termos do artigo 789 do CPC. A penhora de quotas não pressupõe desconsideração alguma, nem torna a sociedade executada: apenas alcança o ativo patrimonial que titulariza quem já é parte.
+
+Requer-se, ainda subsidiariamente, a penhora dos lucros, dividendos e demais haveres que couberem ao executado na referida sociedade, na forma do artigo 835, XIII, do CPC, figurando a PRATIC como mera depositária.
+
+#DOS PEDIDOS
+
+Ante todo o exposto, requer o agravante:
+
+$a) o conhecimento e provimento do presente agravo de petição;
+
+$b) preliminarmente, a declaração de nulidade da r. decisão de Id. e05429a, por julgamento de causa diversa da instaurada e por negativa de prestação jurisdicional, com o retorno dos autos à origem para novo julgamento do incidente de desconsideração inversa da personalidade jurídica efetivamente instaurado pelo r. despacho de Id. 072351b;
+
+$c) sucessivamente, com fundamento no artigo 1.013, § 3º, do CPC, o julgamento direto do mérito por este Egrégio Tribunal, para reformar a r. decisão agravada e julgar procedente o incidente, com a inclusão de PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, CNPJ 53.242.416/0001-82, no polo passivo da execução, respondendo solidariamente pela integralidade do débito exequendo;
+
+$d) o reconhecimento da inaplicabilidade do Tema 1232 do STF à espécie, por não se tratar de terceiro estranho à execução, mas de sociedade unipessoal cujo único sócio já integra o polo passivo desde 04/05/2021;
+
+$e) o reconhecimento da sucessão empresarial e da fraude à execução, nos termos dos artigos 10, 448 e 448-A da CLT e do artigo 792, § 3º, do CPC, matérias sobre as quais a r. decisão agravada foi inteiramente omissa;
+
+$f) em caráter subsidiário, na hipótese de não acolhimento dos pedidos anteriores, seja determinada a penhora da integralidade das quotas sociais de titularidade do executado ANDERSON PETERSON CLAUDINO na PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, na forma dos artigos 789, 835, IX, e 861 do CPC, bem como dos lucros e haveres que lhe couberem, na forma do artigo 835, XIII, do CPC;
+
+$g) o prosseguimento da execução até a integral satisfação do crédito alimentar, hoje apurado em R$ 41.138,72, atualizado até 27/04/2026.
+
+Nestes termos,
+Pede deferimento.
+
+>Sorocaba, 31 de agosto de 2026.
+
+=Giovanna Bortolato Hins
+=Assistente Jurídica
+
+=Alexandre Pascoal Marques
+=OAB/SP 270.924
+
+=Flávia Dyandra da Silva
+=OAB/SP 352.455

@@ -115,7 +115,7 @@ Workflow pronto para importar: [`n8n_workflow.json`](n8n_workflow.json).
 - `context_loader.py` - puxa processo, cliente, pasta Drive, POP
 - `llm_client.py` - wrapper Anthropic (Opus para pecas, Sonnet para triagem)
 - `retorno_advbox.py` - cria tarefa de retorno + idempotencia via ADVBOX
-- `template_engine.py` - aplica o timbrado e a formatacao do escritorio
+- `template_engine.py` - OBSOLETO: fachada fina sobre `escritorio_format` (DeprecationWarning)
 - `escritorio_format.py` - motor de formatacao fiel (margens, fonte, recuo, citacoes)
 - `peca_escritorio_engine.py` - geracao de peca com DNA do escritorio (skills /peca-escritorio e /formatar-escritorio)
 - `acentuacao.py` - safety net de acentuacao PT-BR

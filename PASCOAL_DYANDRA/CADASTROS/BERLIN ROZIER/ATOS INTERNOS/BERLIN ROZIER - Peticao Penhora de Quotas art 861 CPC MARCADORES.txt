@@ -1,0 +1,123 @@
+!EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DA DAM - SOROCABA / 3ª VARA DO TRABALHO DE SOROCABA-SP
+
+!PROCESSO Nº 0010118-30.2018.5.15.0109
+
+BERLIN ROZIER, exequente já devidamente qualificado nos autos da execução em epígrafe, por seus advogados, vem, respeitosamente, à presença de Vossa Excelência, com fundamento nos artigos 789, 835, IX e XIII, e 861 do Código de Processo Civil, aplicáveis subsidiariamente por força do artigo 769 da CLT, **requerer a PENHORA DAS QUOTAS SOCIAIS de titularidade do executado**, pelas razões de fato e de direito a seguir expostas.
+
+#DA PREMISSA — DO QUE NÃO SE DISCUTE NESTA PETIÇÃO
+
+De início, e para que não haja qualquer confusão quanto ao objeto do presente requerimento, cumpre delimitar com precisão o que aqui não se postula.
+
+Não se pretende, nesta petição, a inclusão de PRATIC PRESTAÇÃO DE SERVIÇOS LTDA no polo passivo da execução. Não se pretende a desconsideração, direta ou inversa, de personalidade jurídica alguma. Não se pretende o reconhecimento de grupo econômico, de sucessão empresarial ou de responsabilidade solidária de terceiro.
+
+Tais matérias foram objeto do incidente decidido sob Id. e05429a e são devolvidas ao Egrégio Tribunal Regional do Trabalho da 15ª Região pela via própria do agravo de petição, ora interposto em peça autônoma.
+
+O que se requer nesta petição é medida inteiramente diversa, autônoma, e que independe por completo daquele julgamento: **a penhora de um bem do próprio executado, que já integra o polo passivo desta execução desde 04/05/2021**.
+
+#DOS FATOS — DA CONDIÇÃO DE EXECUTADO E DA TITULARIDADE DAS QUOTAS
+
+O executado ANDERSON PETERSON CLAUDINO, CPF 212.997.998-09, integra o polo passivo desta execução desde 04/05/2021, por força de decisão que deferiu a desconsideração da personalidade jurídica da executada originária, conforme certificado no Mandado de Pesquisas Básicas expedido por este r. Juízo:
+
+~"Houve desconsideração da personalidade jurídica e incluídos o(s) seguinte(s) sócios, nas respectivas datas: Em 04/05/2021: ANDERSON PETERSON CLAUDINO, CPF: 212.997.998-09"
+
+Sua condição de parte é, portanto, incontroversa. Mais que isso: já sofreu constrição patrimonial nestes autos, tendo sido bloqueado valor parcial, ulteriormente convolado em penhora por r. despacho de 16/05/2022, com pagamento parcial de R$ 12.695,12 processado em 08/08/2022, conforme demonstrativo oficial de atualização de Id. 9add6b9.
+
+Pois bem. Consta da ficha cadastral completa expedida pela Junta Comercial do Estado de São Paulo em 29/04/2026, juntada a estes autos sob Id. eb439ee, que o executado é titular do seguinte ativo patrimonial:
+
+$a) Sociedade: PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, CNPJ 53.242.416/0001-82, NIRE 35262798734;
+
+$b) Natureza jurídica: SOCIEDADE LIMITADA UNIPESSOAL (M.E.);
+
+$c) Sede: Rua Henrique Manasses, 300, Sala 01, Éden, Sorocaba-SP, CEP 18086-610;
+
+$d) Capital social: R$ 25.000,00 (vinte e cinco mil reais);
+
+$e) Participação do executado: R$ 25.000,00, correspondentes a 100% (cem por cento) do capital social;
+
+$f) Cargo: sócio e administrador, assinando pela empresa;
+
+$g) Denominações anteriores: INICIAL PRESTAÇÃO DE SERVIÇOS LTDA e PATRIC WORKS PRESTAÇÃO DE SERVIÇOS LTDA.
+
+É o que se lê, literalmente, do documento oficial:
+
+~"ANDERSON PETERSON CLAUDINO, NACIONALIDADE BRASILEIRA, CPF: 212.997.998-09, RG/RNE: 283608420 - SP, RESIDENTE À RUA VAGNER APARECIDO PEREIRA, 361, HORTO FLORESTAL, SOROCABA - SP, CEP 18074-781, OCUPANDO O CARGO DE SÓCIO E ADMINISTRADOR, ASSINANDO PELA EMPRESA. COM VALOR DE PARTICIPAÇÃO NA SOCIEDADE DE $ 25.000,00."
+
+O executado é, ainda, titular único da empresa individual ANDERSON PETERSON CLAUDINO ME, CNPJ 13.001.488/0001-13, NIRE 35126559022, capital de R$ 10.000,00, igualmente comprovada por ficha cadastral da JUCESP encartada nos autos.
+
+#DO DIREITO — AS QUOTAS SÃO BEM DO EXECUTADO E, COMO TAIS, PENHORÁVEIS
+
+O artigo 789 do Código de Processo Civil é categórico:
+
+~"O devedor responde com todos os seus bens presentes e futuros para o cumprimento de suas obrigações, salvo as restrições estabelecidas em lei."
+
+E o artigo 835, IX, do mesmo diploma inclui expressamente, na ordem preferencial de penhora:
+
+~"IX - ações e quotas de sociedades simples e empresárias;"
+
+Vale observar, Excelência, que **a quota social é bem móvel incorpóreo integrante do patrimônio do sócio, e não do patrimônio da sociedade**. Sua penhora não atinge o patrimônio social, não transfere a titularidade da empresa ao exequente, não interfere na administração e, sobretudo, não converte a sociedade em executada.
+
+Daí por que — e este é o ponto central — a penhora de quotas independe por inteiro de desconsideração da personalidade jurídica, de reconhecimento de grupo econômico ou de sucessão empresarial. Não há aqui qualquer redirecionamento de execução a terceiro. Há, tão somente, a constrição de um bem que o próprio executado possui.
+
+Por idêntica razão, **é inaplicável ao presente requerimento a tese do Tema 1232 do Supremo Tribunal Federal**, que trata da inclusão de empresa no polo passivo da execução. Aqui não se inclui empresa alguma: penhora-se bem de quem já é parte.
+
+O artigo 861 do CPC estabelece o procedimento:
+
+~"Art. 861. Penhoradas as quotas ou as ações de sócio em sociedade simples ou empresária, o juiz assinará prazo razoável, não superior a 3 (três) meses, para que a sociedade: I - apresente balanço especial, na forma da lei; II - ofereça as quotas ou as ações aos demais sócios, observado o direito de preferência legal ou contratual; III - não havendo interesse dos sócios na aquisição das ações, proceda à liquidação das quotas ou das ações, depositando em juízo o valor apurado, em dinheiro."
+
+Cabe salientar circunstância que simplifica sobremaneira o procedimento no caso concreto: **tratando-se de sociedade limitada unipessoal, não existem demais sócios**. O inciso II do artigo 861 resta, por definição, prejudicado, devendo o feito seguir diretamente para o balanço especial e a subsequente liquidação, ou, na forma do § 5º do mesmo dispositivo, para o leilão judicial das quotas:
+
+~"§ 5º Caso não haja interesse dos demais sócios no exercício de direito de preferência, não ocorra a aquisição das quotas ou ações pela sociedade e a liquidação do inciso III do caput seja excessivamente onerosa para a sociedade, o juiz poderá determinar o leilão judicial das quotas ou ações."
+
+#DA PENHORA DOS LUCROS E HAVERES DO EXECUTADO
+
+Cumulativamente, e como medida de menor onerosidade apta a produzir resultado imediato, requer-se a penhora dos lucros, dividendos, pró-labore e demais haveres que couberem ao executado na referida sociedade, com fundamento no artigo 835, XIII, do CPC.
+
+Nesta hipótese, a PRATIC PRESTAÇÃO DE SERVIÇOS LTDA figura como **mera depositária**, obrigada a reter e depositar em juízo as importâncias devidas ao sócio executado, sem que isso lhe atribua a condição de executada, e sem qualquer afronta ao decidido no incidente de Id. e05429a.
+
+#DA URGÊNCIA E DA NATUREZA ALIMENTAR DO CRÉDITO
+
+Importante consignar que a execução tramita desde 2020 sem qualquer satisfação desde 08/08/2022, ou seja, há mais de quatro anos.
+
+Todas as ferramentas eletrônicas à disposição deste r. Juízo foram exauridas sem êxito: SISBAJUD com resultado negativo, RENAJUD, INFOJUD, INFOSEG e ARISP sem localização de bens livres e desembaraçados, SNIPER com o registro literal "Nenhum dado encontrado", e diligências de oficial de justiça infrutíferas.
+
+Frise-se: **as quotas ora indicadas constituem, hoje, o único ativo patrimonial de expressão econômica localizado em nome do executado**. Sua não constrição significa, na prática, a inviabilização definitiva de crédito de natureza alimentar reconhecido por sentença transitada em julgado há quase sete anos, em favor de trabalhador que sequer recebeu suas verbas rescisórias.
+
+Ressalta-se, por oportuno, que o presente requerimento constitui ato útil ao andamento da execução, apto a afastar a incidência do artigo 11-A da CLT.
+
+#DOS REQUERIMENTOS
+
+Ante o exposto, requer o exequente:
+
+$a) seja determinada a penhora da integralidade das quotas sociais de titularidade do executado ANDERSON PETERSON CLAUDINO, CPF 212.997.998-09, na sociedade PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, CNPJ 53.242.416/0001-82, NIRE 35262798734, correspondentes a R$ 25.000,00 e a 100% do capital social, com fundamento nos artigos 789, 835, IX, e 861 do CPC, consignando-se expressamente que a medida não implica inclusão da sociedade no polo passivo;
+
+$b) seja determinada, igualmente, a penhora das quotas de titularidade do executado na empresa individual ANDERSON PETERSON CLAUDINO ME, CNPJ 13.001.488/0001-13, NIRE 35126559022, no valor de R$ 10.000,00;
+
+$c) seja intimada a sociedade PRATIC PRESTAÇÃO DE SERVIÇOS LTDA, na pessoa de seu administrador, no endereço da Rua Henrique Manasses, 300, Sala 01, Éden, Sorocaba-SP, CEP 18086-610, para, no prazo do artigo 861, caput, do CPC, apresentar balanço especial, restando prejudicado o inciso II do dispositivo por se tratar de sociedade unipessoal, seguindo-se a liquidação das quotas com depósito em juízo do valor apurado, ou, sendo esta excessivamente onerosa, o leilão judicial das quotas, na forma do § 5º do mesmo artigo;
+
+$d) cumulativamente, seja determinada a penhora dos lucros, dividendos, pró-labore e demais haveres que couberem ao executado na referida sociedade, na forma do artigo 835, XIII, do CPC, figurando a sociedade como mera depositária, com a obrigação de reter e depositar mensalmente em juízo tais importâncias, sob as penas do artigo 161 do CPC;
+
+$e) seja expedido ofício à Junta Comercial do Estado de São Paulo para averbação da penhora à margem dos registros das sociedades indicadas, a fim de conferir publicidade ao ato e prevenir alienação ou transferência fraudulenta das quotas, com as consequências do artigo 792, § 3º, do CPC;
+
+$f) seja determinada, desde logo, a indisponibilidade das quotas, vedando-se à JUCESP o arquivamento de qualquer ato de alteração de quadro societário, de transferência de quotas, de redução de capital, de alteração de denominação social ou de dissolução das referidas sociedades sem prévia autorização deste r. Juízo;
+
+$g) seja renovada a pesquisa via SISBAJUD, no modo teimosinha, com repetição automática, em face de todos os executados;
+
+$h) sejam realizadas pesquisas complementares pelos sistemas CNIB — Central Nacional de Indisponibilidade de Bens, SIMBA, SNIPER, SERASAJUD e RENAJUD, em face de todos os executados;
+
+$i) seja determinado o protesto da decisão condenatória, na forma do artigo 883-A da CLT, e a inclusão dos executados no Banco Nacional de Devedores Trabalhistas — BNDT;
+
+$j) o prosseguimento da execução até a integral satisfação do crédito, hoje apurado em R$ 41.138,72, atualizado até 27/04/2026 conforme planilha oficial de Id. 9add6b9.
+
+Nestes termos,
+Pede deferimento.
+
+>Sorocaba, 31 de agosto de 2026.
+
+=Giovanna Bortolato Hins
+=Assistente Jurídica
+
+=Alexandre Pascoal Marques
+=OAB/SP 270.924
+
+=Flávia Dyandra da Silva
+=OAB/SP 352.455

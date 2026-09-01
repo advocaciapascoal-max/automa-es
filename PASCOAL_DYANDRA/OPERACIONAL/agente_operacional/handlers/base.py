@@ -9,7 +9,7 @@ from datetime import datetime
 sys.path.insert(0, str(Path(__file__).parent.parent.parent.parent / 'INTEGRACOES'))
 from google_integration import autenticar_google  # noqa
 
-from ..template_engine import gerar_peca_no_template
+from ..escritorio_format import gerar_peca_escritorio
 
 log = logging.getLogger('agente_op.handler')
 
@@ -37,8 +37,8 @@ def salvar_docx_no_drive(titulo: str, corpo_markdown: str, pasta_destino_id: str
     with tempfile.NamedTemporaryFile(suffix='.docx', delete=False) as tmp:
         tmp_path = tmp.name
     try:
-        gerar_peca_no_template(corpo_markdown, tmp_path,
-                               imagens=imagens, drive_service=drive)
+        gerar_peca_escritorio(corpo_markdown, tmp_path,
+                              imagens=imagens, drive_service=drive)
         media = MediaFileUpload(tmp_path, mimetype=DOCX_MIME, resumable=False)
         metadata = {
             'name': nome,
